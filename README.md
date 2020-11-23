@@ -1,2 +1,2 @@
 # Plants-vs.-Zombies
-OOP class project
+Build a small game for OOP class project
